@@ -15,7 +15,7 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
-    <PackageReference Include="AWSSDK.S3" Version="3.7.104.2" />
+    <PackageReference Include="AWSSDK.S3" Version="3.7.310.6" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\PortingAssistant.Compatibility.Common\PortingAssistant.Compatibility.Common.csproj" />
